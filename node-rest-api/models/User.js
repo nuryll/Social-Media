@@ -31,7 +31,7 @@ const UserSchema = new mongoose.Schema({
         type:Array, //we used array, any followers ıd nummers will be inside in this array.
         default:[]
     },
-    following:{
+    followings:{
         type:Array, 
         default:[]
     },
