@@ -4,6 +4,11 @@ This project is a simple social media platform inspired by Facebook, developed t
 
 The frontend of the application is developed using React.js, leveraging functional components and React Hooks to create an interactive user interface. This project aims to provide hands-on experience in building a real-world social media application from scratch, covering both backend API development and frontend design.
 
+![Screenshot (491)](https://github.com/user-attachments/assets/86c2d1af-8462-4671-ad74-9895a8fc1330)
+![Screenshot (492)](https://github.com/user-attachments/assets/46a2e7ae-2120-405b-9a7a-01a049397398)
+![Screenshot (493)](https://github.com/user-attachments/assets/14451bab-95ce-45de-8c01-626e89012d8d)
+
+
 ### Technologies
 - **Node.js**: Used for building the REST API.
 - **MongoDB**: For database management.
